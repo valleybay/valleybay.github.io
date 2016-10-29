@@ -3,9 +3,9 @@ permalink:           pretty
 
 # Setup
 title:               Valleybay
-tagline:             Thoughts composed on my phone
-url:                 http://christianbay.github.io
-paginate:            1
+tagline:             Raw. Ideas. Thoughts.
+url:                 http://valleybay.github.io
+paginate:            5
 baseurl:             ""
 
 # Assets
@@ -23,7 +23,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/christianbay/christianbay.github.io
+  repo:              https://github.com/valleybay/valleybay.github.io
 
 # Gems
 gems:
