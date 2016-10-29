@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Valleybay
+tagline:             Thoughts composed on my phone
+url:                 http://christianbay.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,13 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Christian Bay
+  url:               https://twitter.com/chrisvalleybay
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/christianbay/christianbay.github.io
 
 # Gems
 gems:
