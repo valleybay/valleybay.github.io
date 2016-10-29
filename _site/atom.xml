@@ -4,7 +4,7 @@
  <title>Valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2016-10-29T20:30:52+02:00</updated>
+ <updated>2016-10-29T21:27:51+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
@@ -13,10 +13,19 @@
 
  
  <entry>
-   <title>What and Why</title>
-   <link href="http://valleybay.github.io/2016/10/29/what-and-why/"/>
+   <title>Concept-only Writing</title>
+   <link href="http://valleybay.github.io/2016/10/29/concept-only-writing/"/>
    <updated>2016-10-29T00:00:00+02:00</updated>
-   <id>http://valleybay.github.io/2016/10/29/what-and-why</id>
+   <id>http://valleybay.github.io/2016/10/29/concept-only-writing</id>
+   <content type="html">&lt;p&gt;In writing we are encouraged to be somewhat verbose. Texts are to be of a certain length in order to fit the mould. It’s unnecessary delay the point for too long. Just give me the juice. I don’t want the fluff. It’s like with milk, I don’t want the cow, I just want the milk. That’s the idea behind Concept-only Writing (or COW). Just give me the concepts, short and succinct, and I’ll figure out for myself what they mean to me.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What and Why</title>
+   <link href="http://valleybay.github.io/2016/10/28/what-and-why/"/>
+   <updated>2016-10-28T00:00:00+02:00</updated>
+   <id>http://valleybay.github.io/2016/10/28/what-and-why</id>
    <content type="html">&lt;p&gt;I’ve been thinking of writing for some time, it’s just that I never get started. When I do get started, I never finish what I write, and that’s exactly what I intend on doing here: never get started and never finish what I start.&lt;/p&gt;
 
 &lt;p&gt;I’ve recently started sharing my thoughts on Twitter. Thing is, tweets are too short and tweets are too permanent. I also briefly experimented with Medium, but quickly found it too noisy, so here we are.&lt;/p&gt;
