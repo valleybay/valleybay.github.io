@@ -8,6 +8,6 @@ I’ve recently started sharing my thoughts on Twitter. Thing is, tweets are too
 
 This site is simply a place for me to beam ideas and thoughts from my phone to your brain. Do not expect well written stuff here, and don’t be surprised if the posts are littered with typos.
 
-As for why, I’m just sharing my thoughts because I think some of them are interesting. If you’d like to have a chat about anything you read here, message me on Twitter.
+As for why, I’m just sharing my thoughts because I think some of them are interesting. If you’d like to have a chat about anything you read here, message me [@chrisvalleybay](https://twitter.com/chrisvalleybay).
 
 As a final disclaimer I should say that I plan on adding or removing from any of these posts without any indication of doing so. All prior versions are however checked into a [git repository](https://github.com/valleybay/valleybay.github.io).
