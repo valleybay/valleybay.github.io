@@ -4,13 +4,29 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T11:54:48+02:00</updated>
+ <updated>2017-10-10T14:29:04+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Van life for real</title>
+   <link href="http://valleybay.github.io/2017/10/10/van-life-for-real/"/>
+   <updated>2017-10-10T12:54:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/10/van-life-for-real</id>
+   <content type="html">&lt;p&gt;Have a look at this guys &lt;a href=&quot;https://ruby-on-wheels.github.io/&quot;&gt;website&lt;/a&gt;. Now I really want to do van life.
+He even has his own solar panles on the roof, and custom antennas for better 4G coverage. I’m doing van life
+at some point! I need to get a remote job. I sort of have one, but I need to make the one I have more remote,
+and then I need to get a programming gig. I’ll contact some companies today. Am I really doing van life? Maybe.&lt;/p&gt;
+
+&lt;p&gt;I’ve been fixing a lot of stuff on this page today. Added a link to an about page in the footer. Now I just need
+to make some sort of system for posting remotely. It’s either the Writer iCloud/Dropbox thing, or just post
+from e-mail. Posting from e-mail sounds alluring. Ok. I need breakfast.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Van Life</title>
