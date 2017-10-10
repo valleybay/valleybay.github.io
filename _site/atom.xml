@@ -4,7 +4,7 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T02:41:06+02:00</updated>
+ <updated>2017-10-10T02:45:45+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
@@ -14,24 +14,11 @@
  
  <entry>
    <title>Microblogging</title>
-   <link href="http://valleybay.github.io/2017/10/10/microblogging/"/>
-   <updated>2017-10-10T00:30:00+02:00</updated>
-   <id>http://valleybay.github.io/2017/10/10/microblogging</id>
+   <link href="http://valleybay.github.io/2017/10/09/mino/"/>
+   <updated>2017-10-09T23:30:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/09/mino</id>
    <content type="html">&lt;p&gt;I want to try microblogging on my own site. I have no idea how this will work.
 I’ll have to tweak the design until it feels right. I want posts from each day to somehow be grouped together.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>System for posting</title>
-   <link href="http://valleybay.github.io/2017/10/09/system-for-posting/"/>
-   <updated>2017-10-09T04:38:00+02:00</updated>
-   <id>http://valleybay.github.io/2017/10/09/system-for-posting</id>
-   <content type="html">&lt;p&gt;Before I go to bed. I need to create some sort of system that will allow me to post from my phone etc.
-I think I can do that with something like crontab polling my Dropbox/iCloud. Probably harder with iCloud,
-but I really don’t want to go back to syncing my Writer documents on Dropbox. Actually, that isn’t happening.&lt;/p&gt;
-
-&lt;p&gt;You know what’s going to be painful? Having to manually control the damn line-breaks. Whatever. I’ll get used to it (or find a workaround).&lt;/p&gt;
 </content>
  </entry>
  
@@ -50,9 +37,22 @@ So I’m back on my vim+tmux setup. I’ll probably keep using org-mode in Space
  </entry>
  
  <entry>
+   <title>System for posting</title>
+   <link href="http://valleybay.github.io/2017/10/09/system-for-posting/"/>
+   <updated>2017-10-09T03:38:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/09/system-for-posting</id>
+   <content type="html">&lt;p&gt;Before I go to bed. I need to create some sort of system that will allow me to post from my phone etc.
+I think I can do that with something like crontab polling my Dropbox/iCloud. Probably harder with iCloud,
+but I really don’t want to go back to syncing my Writer documents on Dropbox. Actually, that isn’t happening.&lt;/p&gt;
+
+&lt;p&gt;You know what’s going to be painful? Having to manually control the damn line-breaks. Whatever. I’ll get used to it (or find a workaround).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>The Universe</title>
    <link href="http://valleybay.github.io/2017/10/09/the-universe/"/>
-   <updated>2017-10-09T02:35:00+02:00</updated>
+   <updated>2017-10-09T01:35:00+02:00</updated>
    <id>http://valleybay.github.io/2017/10/09/the-universe</id>
    <content type="html">&lt;p&gt;The universe, life, is profoundly sad&lt;br /&gt;
 Here now, only to be erased,&lt;br /&gt;
