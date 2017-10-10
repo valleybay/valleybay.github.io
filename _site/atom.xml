@@ -4,7 +4,7 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T16:50:08+02:00</updated>
+ <updated>2017-10-10T17:09:02+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
@@ -54,6 +54,19 @@ Every time I start using Emacs I have a dream that this piece of software will d
 So I’m back on my vim+tmux setup. I’ll probably keep using org-mode in Spacemacs, like I used to. I’ll write some more about this when I’m not supertired.&lt;/p&gt;
 
 &lt;p&gt;Also, it’s super annoying, because I’m struggling to get this site to order my posts based on the date+time they were created. No such luck yet. Going to bed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>System for posting</title>
+   <link href="http://valleybay.github.io/2017/10/09/system-for-posting/"/>
+   <updated>2017-10-09T03:38:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/09/system-for-posting</id>
+   <content type="html">&lt;p&gt;Before I go to bed. I need to create some sort of system that will allow me to post from my phone etc.
+I think I can do that with something like crontab polling my Dropbox/iCloud. Probably harder with iCloud,
+but I really don’t want to go back to syncing my Writer documents on Dropbox. Actually, that isn’t happening.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-know-whats-going-to-be-painful-having-to-manually-control-the-damn-line-breaks-whatever-ill-get-used-to-it-or-find-a-workaround&quot;&gt;You know what’s going to be painful? Having to manually control the damn line-breaks. Whatever. I’ll get used to it (or find a workaround).&lt;/h2&gt;
 </content>
  </entry>
  
