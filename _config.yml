@@ -3,9 +3,9 @@ permalink:           pretty
 
 # Setup
 title:               valleybay
-tagline:             Microblog
+tagline:             microblog
 url:                 http://valleybay.github.io
-paginate:            5
+paginate:            15
 baseurl:             ""
 analytics_id:        UA-86543815-1
 
