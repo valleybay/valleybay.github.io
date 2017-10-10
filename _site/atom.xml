@@ -4,7 +4,7 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T17:09:02+02:00</updated>
+ <updated>2017-10-10T17:10:12+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
@@ -66,7 +66,7 @@ So I’m back on my vim+tmux setup. I’ll probably keep using org-mode in Space
 I think I can do that with something like crontab polling my Dropbox/iCloud. Probably harder with iCloud,
 but I really don’t want to go back to syncing my Writer documents on Dropbox. Actually, that isn’t happening.&lt;/p&gt;
 
-&lt;h2 id=&quot;you-know-whats-going-to-be-painful-having-to-manually-control-the-damn-line-breaks-whatever-ill-get-used-to-it-or-find-a-workaround&quot;&gt;You know what’s going to be painful? Having to manually control the damn line-breaks. Whatever. I’ll get used to it (or find a workaround).&lt;/h2&gt;
+&lt;p&gt;You know what’s going to be painful? Having to manually control the damn line-breaks. Whatever. I’ll get used to it (or find a workaround).&lt;/p&gt;
 </content>
  </entry>
  

@@ -8,4 +8,3 @@ I think I can do that with something like crontab polling my Dropbox/iCloud. Pro
 but I really don't want to go back to syncing my Writer documents on Dropbox. Actually, that isn't happening.
 
 You know what's going to be painful? Having to manually control the damn line-breaks. Whatever. I'll get used to it (or find a workaround).
--
