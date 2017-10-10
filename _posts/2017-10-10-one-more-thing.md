@@ -9,6 +9,6 @@ still not good enough. I actually considered deleting Snapchat and Messenger, bu
 that seems over the top. They're fun *sometimes*. Any way, disabling notifications
 is not enough, because now I have to go into the applications to see if I have any
 new messages. This is annoying (and disappointing) when I don't have any new messages
-(sad face). I guess I just need to be more disciplined. Move them to a sepparate screen,
+(sad face). I guess I just need to be more disciplined. Move them to a separate screen,
 keep badge count on (so I don't have to open the app), and then only check every 3-4 hours.
 We'll see.
