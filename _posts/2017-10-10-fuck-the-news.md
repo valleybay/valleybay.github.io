@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fuck the news
-date: 2017-10-10 00:27:00 +0100
+date: 2017-10-11 00:27:00 +0100
 ---
 A lot of people read the news every day. Fuck the news. The news are not important.
 It seems most people have the idea that reading the news is a good thing. They pride
