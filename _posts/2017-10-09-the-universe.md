@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Universe
-date: 2017-10-09 00:35:00 +0100
+date: 2017-10-09 00:35:00
 ---
 The universe, life, is profoundly sad  
 Here now, only to be erased,  

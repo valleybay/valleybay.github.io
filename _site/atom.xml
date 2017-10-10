@@ -4,7 +4,7 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T02:38:48+02:00</updated>
+ <updated>2017-10-10T02:41:06+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Microblogging</title>
-   <link href="http://valleybay.github.io/2017/10/09/microblogging/"/>
-   <updated>2017-10-09T23:30:00+02:00</updated>
-   <id>http://valleybay.github.io/2017/10/09/microblogging</id>
+   <link href="http://valleybay.github.io/2017/10/10/microblogging/"/>
+   <updated>2017-10-10T00:30:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/10/microblogging</id>
    <content type="html">&lt;p&gt;I want to try microblogging on my own site. I have no idea how this will work.
 I’ll have to tweak the design until it feels right. I want posts from each day to somehow be grouped together.&lt;/p&gt;
 </content>
@@ -25,7 +25,7 @@ I’ll have to tweak the design until it feels right. I want posts from each day
  <entry>
    <title>System for posting</title>
    <link href="http://valleybay.github.io/2017/10/09/system-for-posting/"/>
-   <updated>2017-10-09T03:38:00+02:00</updated>
+   <updated>2017-10-09T04:38:00+02:00</updated>
    <id>http://valleybay.github.io/2017/10/09/system-for-posting</id>
    <content type="html">&lt;p&gt;Before I go to bed. I need to create some sort of system that will allow me to post from my phone etc.
 I think I can do that with something like crontab polling my Dropbox/iCloud. Probably harder with iCloud,
@@ -38,7 +38,7 @@ but I really don’t want to go back to syncing my Writer documents on Dropbox. 
  <entry>
    <title>Emacs</title>
    <link href="http://valleybay.github.io/2017/10/09/emacs/"/>
-   <updated>2017-10-09T03:28:00+02:00</updated>
+   <updated>2017-10-09T04:28:00+02:00</updated>
    <id>http://valleybay.github.io/2017/10/09/emacs</id>
    <content type="html">&lt;p&gt;I’ve given Emacs another try this week. This time I did it properly.&lt;br /&gt;
 I set up everything from scratch. Backed up my Spacemacs config, and let it all go.
@@ -52,7 +52,7 @@ So I’m back on my vim+tmux setup. I’ll probably keep using org-mode in Space
  <entry>
    <title>The Universe</title>
    <link href="http://valleybay.github.io/2017/10/09/the-universe/"/>
-   <updated>2017-10-09T01:35:00+02:00</updated>
+   <updated>2017-10-09T02:35:00+02:00</updated>
    <id>http://valleybay.github.io/2017/10/09/the-universe</id>
    <content type="html">&lt;p&gt;The universe, life, is profoundly sad&lt;br /&gt;
 Here now, only to be erased,&lt;br /&gt;
