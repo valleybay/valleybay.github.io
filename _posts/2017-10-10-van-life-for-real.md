@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Van life for real
-date: 2017-10-09 02:38:00 +0100
+date: 2017-10-10 11:54:00 +0100
 ---
 Have a look at this guys [website](https://ruby-on-wheels.github.io/). Now I really want to do van life.
 He even has his own solar panles on the roof, and custom antennas for better 4G coverage. I'm doing van life
