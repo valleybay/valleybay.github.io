@@ -4,23 +4,13 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T11:32:23+02:00</updated>
+ <updated>2017-10-10T11:34:44+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Microblogging</title>
-   <link href="http://valleybay.github.io/2017/10/09/mino/"/>
-   <updated>2017-10-09T23:30:00+02:00</updated>
-   <id>http://valleybay.github.io/2017/10/09/mino</id>
-   <content type="html">&lt;p&gt;I want to try microblogging on my own site. I have no idea how this will work.
-I’ll have to tweak the design until it feels right. I want posts from each day to somehow be grouped together.&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Emacs</title>
