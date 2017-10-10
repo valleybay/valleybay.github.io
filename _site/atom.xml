@@ -4,13 +4,28 @@
  <title>valleybay</title>
  <link href="http://valleybay.github.io/atom.xml" rel="self"/>
  <link href="http://valleybay.github.io/"/>
- <updated>2017-10-10T11:34:44+02:00</updated>
+ <updated>2017-10-10T11:53:59+02:00</updated>
  <id>http://valleybay.github.io</id>
  <author>
    <name>Christian Bay</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Van Life</title>
+   <link href="http://valleybay.github.io/2017/10/10/van-life/"/>
+   <updated>2017-10-10T11:50:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/10/van-life</id>
+   <content type="html">&lt;p&gt;I just woke up. I read about someone living in a van, driving around the country, 
+remote coding as a living. I like that idea. Sometimes I think that it would be
+cool to live as a nomad coder. It’s just that I like comfort too much. Maybe 
+somtime.&lt;br /&gt;
+Today I want to keep working on my setup, and I want to do something about this
+microblog. I don’t know if I am happy using jekyll to host it, although it 
+certainly is the simplest.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Emacs</title>
@@ -23,6 +38,22 @@ Every time I start using Emacs I have a dream that this piece of software will d
 So I’m back on my vim+tmux setup. I’ll probably keep using org-mode in Spacemacs, like I used to. I’ll write some more about this when I’m not supertired.&lt;/p&gt;
 
 &lt;p&gt;Also, it’s super annoying, because I’m struggling to get this site to order my posts based on the date+time they were created. No such luck yet. Going to bed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Van life for real</title>
+   <link href="http://valleybay.github.io/2017/10/09/van-life-for-real/"/>
+   <updated>2017-10-09T03:38:00+02:00</updated>
+   <id>http://valleybay.github.io/2017/10/09/van-life-for-real</id>
+   <content type="html">&lt;p&gt;Have a look at this guys &lt;a href=&quot;https://ruby-on-wheels.github.io/&quot;&gt;website&lt;/a&gt;. Now I really want to do van life.
+He even has his own solar panles on the roof, and custom antennas for better 4G coverage. I’m doing van life
+at some point! I need to get a remote job. I sort of have one, but I need to make the one I have more remote,
+and then I need to get a programming gig. I’ll contact some companies today. Am I really doing van life? Maybe.&lt;/p&gt;
+
+&lt;p&gt;I’ve been fixing a lot of stuff on this page today. Added a link to an about page in the footer. Now I just need
+to make some sort of system for posting remotely. It’s either the Writer iCloud/Dropbox thing, or just post
+from e-mail. Posting from e-mail sounds alluring. Ok. I need breakfast.&lt;/p&gt;
 </content>
  </entry>
  
