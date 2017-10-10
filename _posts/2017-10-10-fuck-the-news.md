@@ -14,7 +14,7 @@ If you add those two together you'll find a huge *bias*! You aren't reading what
 the hard problems of our times on print? It's because you won't click on it. People don't 
 like bad news. **People do not want the truth**.  
 How often do you seek the truth? I mean 
-*really* seek the truth? On a fundamental level you don't care. You just want the 
+*really* seek the truth? On a fundamental level, you don't care. You just want
 entertainment, and so that's what you'll get. You click on shit, so there's shit everywhere. 
 Congratulations!  
 I don't read the news. Fuck the news.
