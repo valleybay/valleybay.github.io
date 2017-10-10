@@ -10,10 +10,11 @@ thought it through?
 First of all, most sites just reprint what every one else is printing. Why? Second,
 most news are financed by ads. This means that they make money when they get *clicks*.
 If you add those two together you'll find a huge *bias*! You aren't reading what you
-*should* be reading in the news. It's all populism! Ask yourself, why is problems with
-the iPhone X being printed more than *insert hard topic here*? It's because people won't
-click on it. People don't like bad news. **People do not want the truth**. How often do
-you seek the truth? I mean *really* seek the truth? On a fundamental level you don't care.
-You just want the entertainment, and so that's what you'll get. You click on shit, so there's
-shit everywhere. Congratulations!  
+*should* be reading in the news. It's all populism! Ask yourself, why aren't we putting
+the hard problems of our times on print? It's because you won't click on it. People don't 
+like bad news. **People do not want the truth**.  
+How often do you seek the truth? I mean 
+*really* seek the truth? On a fundamental level you don't care. You just want the 
+entertainment, and so that's what you'll get. You click on shit, so there's shit everywhere. 
+Congratulations!  
 I don't read the news. Fuck the news.
