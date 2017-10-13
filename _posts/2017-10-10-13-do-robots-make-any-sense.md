@@ -19,5 +19,5 @@ We want to avoid involving too many machines in this condition, because we
 recognize the imminent responsibility. We seek to create these machines to
 relieve us from tasks we believe that we shouldn't be doing, but there is an
 instrinic value judgement to this that is hard to balance, or even understand.  
-We seem to have an idealized idea of what not having to work even mean.  
+We seem to have an idealized sense of what not having to work even means.  
 Remember, we need only pass time while entropy works its course. Peace.
