@@ -12,13 +12,12 @@ something else, something fun. But what is fun? Is fun even fun, if it isn't
 in contrast to something else? Isn't fun fun precisely because it isn't what 
 we usually do? Doesn't fun just arise as a contrast to our work?  
 Robots are just machines, like humans, but
-more specialized and limited. We want robots because they lack sentience.  
+more specialized and limited. We want robots because they lack sentience.
 If robots felt bored, got hurt when people yelled at them, we wouldn't want
 robots, because they'd suffer from what we believe to be the human condition. 
 We want to avoid involving too many machines in this condition, because we 
 recognize the imminent responsibility. We seek to create these machines to
 relieve us from tasks we believe that we shouldn't be doing, but there is an
 instrinic value judgement to this that is hard to balance, or even understand.  
-  
 We seem to have an idealized idea of what not having to work even mean.  
 Remember, we need only pass time while entropy works its course. Peace.
